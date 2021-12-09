@@ -147,7 +147,7 @@
 
 ⍝ So the digit 3 is at index 8 (=fives[2]) in the digit vector.
 ⍝ 
-⍝ One little complication now is that to find ot which of the
+⍝ One little complication now is that to find out which of the
 ⍝ remaining "fivers" is the 2 and which is the 5, we compare with
 ⍝ the image of the digit 4. The digit 2 shares 2 segments with the
 ⍝ 4, and the digit 5 shares 3 with the digit 4. But digit 3, which
