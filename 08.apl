@@ -74,7 +74,7 @@
 2
 
 ⍝ The sum gives us the total number of occurrences of either,
-⍝ in this case 'fdgacbe' (for a digit 7) and 'gcbe' (for a
+⍝ in this case 'fdgacbe' (for a digit 8) and 'gcbe' (for a
 ⍝ digit 4). The other two segment strings are ambiguous, and
 ⍝ cannot be determined from length alone.
 ⍝ 
