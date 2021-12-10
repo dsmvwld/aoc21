@@ -1,6 +1,6 @@
 *.input
 *.dws
-_notes.apl
+_*
 files.dws
 html/
 500.*
