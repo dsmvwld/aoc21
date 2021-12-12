@@ -208,7 +208,7 @@ Begin:
 ⍝ The first step however is to filter for the desired
 ⍝ "incomplete" entries that need autocompleting. For the test
 ⍝ data set, there are five of them. (Always an odd number, as
-⍝ the puzzle test promised.)
+⍝ the puzzle text promised.)
 
       ⍴{({0=score ⍵}¨⍵)/⍵}load'10.test'
 5
