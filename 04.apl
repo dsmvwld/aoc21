@@ -1,4 +1,4 @@
-⍝ day 4
+⍝ day 4: Giant Squid
 
 ∇load fn;input
  input←(⎕UCS 10)(≠⊆⊢)⊃⎕NGET fn

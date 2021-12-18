@@ -1,4 +1,4 @@
-⍝ day 5
+⍝ day 5: Hydrothermal Venture
 
 ⍝ ============================================================
 ⍝ part 1, solution

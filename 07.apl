@@ -1,4 +1,4 @@
-⍝ day 7
+⍝ day 7: The Treachery of Whales
 
 ⍝ ============================================================
 ⍝ part 1, solution
