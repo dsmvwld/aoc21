@@ -1,4 +1,4 @@
-⍝ day 14
+⍝ day 14: Extended Polymerization
 
 ⍝ ============================================================
 ⍝ part 1, solution
