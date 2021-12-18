@@ -66,7 +66,7 @@
 ⍝ part 2, solution
 ⍝ ============================================================
 
- r←eval pkt
+∇r←eval pkt
  :Select 2⊃pkt
  :Case 0
      r←+/eval¨2↓pkt
@@ -85,6 +85,7 @@
  :Case 7
      r←=/eval¨2↓pkt
  :EndSelect
+∇
 
       ⎕PP←17
       feed←load '16.ex8' ⋄ eval parse
